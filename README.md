@@ -22,5 +22,5 @@ Any other status code indicates a potential server error.
 **Important Note:**
 The dataset must be saved on the desktop inside a folder named QA1 (or a specified path in the script).
 **DataSet drive link**
-https://drive.google.com/drive/folders/1k8n3F3iSuE2Yq8m74rp7Rpsg44OI5GAH?usp=sharing
+https://drive.google.com/drive/folders/1qUqE0h8uAitSF1DyNsNnD4BxrlzYFplu?usp=sharing
 Numeric values are allowed in the image filenames alongside F, S, or R (e.g., 1234f.jpg or 123S.jpeg), but no other letters should be present after/before F, S, or R.
